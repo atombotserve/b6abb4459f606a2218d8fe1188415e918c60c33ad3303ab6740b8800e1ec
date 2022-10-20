@@ -1,0 +1,12 @@
+{
+      "name": "b6abb4459f606a2218d8fe1188415e918c60c33ad3303ab6740b8800e1ec",
+      "theme": "syntax",
+      "version": "20.0.0",
+      "description": "เจ้ฟองเบียร์ หวยมาเล ย์ 24 ประตู ที่ HUAY เว็บหวยออนไลน์ อันดับหนึ่ง ปล่อยเลขเด็ด หวยหุ้นดาวโจนส์ ปกติ",
+      "repository": "https://github.com/atombotserve/b6abb4459f606a2218d8fe1188415e918c60c33ad3303ab6740b8800e1ec",
+      "keywords": "ไม่ผ่านเอเย่นต์",
+      "license": "MIT",
+      "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+      }
+    }
